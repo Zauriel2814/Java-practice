@@ -51,7 +51,7 @@ public class CompletableFutureDemo {
             }
         });
 
-        // Add code here to print "Email Sent!" after asynchronous code is completed
+        // Add code here to print "Email Sent!" after asynchronous code is completed: Use thenApply() 
         
 
         // Wait for task to complete
